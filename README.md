@@ -1,6 +1,9 @@
-# -HCM.Fresher-Nguyen-Duy-Vu
-**Coding convention**
-[Coding convention](https://github.com/Duyvu2610/Coding-convention)
+# [HCM_Fresher] Nguyễn Duy Vụ
 
-[OOP Example](https://github.com/Duyvu2610/oop-example)
+ ***
 
+ ## 1. Coding convention
+ * [Coding convention](https://github.com/Duyvu2610/Coding-convention)
+ ## 2. Week 2
+ * [OOP](https://github.com/Duyvu2610/Coding-convention)
+ * [Java Core](https://github.com/Duyvu2610/oop-example)
